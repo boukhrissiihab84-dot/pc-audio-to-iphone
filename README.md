@@ -26,7 +26,7 @@ Windows audio ──WASAPI loopback──▶ server.py (WebRTC/Opus) ──WiFi�
 
 ## Requirements
 
-- Windows 10/11, Python 3.9+ (built and tested with 3.12)
+- Windows 10/11, Python 3.9+ (built and tested with 3.14)
 - PC and phone on the **same WiFi network**
 
 ## Setup (once)
